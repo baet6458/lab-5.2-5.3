@@ -6,20 +6,20 @@
                 {
                     "source": "/home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/res/values-w600dp/styles.xml",
                     "from": {
-                        "startLines": "18,25,27",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "637,957,1045",
-                        "endLines": "23,26,32",
-                        "endColumns": "12,52,12",
-                        "endOffsets": "951,1040,1213"
+                        "startLines": "18,-1,32,27",
+                        "startColumns": "4,-1,4,4",
+                        "startOffsets": "637,-1,1200,1039",
+                        "endLines": "23,-1,32,30",
+                        "endColumns": "12,-1,81,12",
+                        "endOffsets": "951,-1,1277,1194"
                     },
                     "to": {
-                        "startLines": "2,8,9",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,374,454",
-                        "endLines": "7,8,12",
-                        "endColumns": "12,79,12",
-                        "endOffsets": "369,449,605"
+                        "startLines": "2,8,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,374,454,535",
+                        "endLines": "7,8,9,13",
+                        "endColumns": "12,79,80,12",
+                        "endOffsets": "369,449,530,690"
                     }
                 }
             ]
