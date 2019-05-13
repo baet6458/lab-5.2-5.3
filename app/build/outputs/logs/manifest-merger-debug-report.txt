@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eli/.gradle/caches/transforms-2/files-2.1/b8d4b4c8ab691d9c97501dfa9f3c1855/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/48d3ce19e092823b1fd852c763b7d3bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/ec1092492d1fa2f406ab71e0a2fdb30b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/3888258d01a248914c34a02d72791743/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/faaed9397b2623cd7017f714d78cde41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/20d53cb9bf2b20db1c285e1ebbc193b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/d1ea9f5a77baf4b260a96c2118a46303/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/2f9ce6405acf179ab1826e531345b2e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/e4386acc7be06d7b332c6044a899b5ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/e789aaa45d7c1019789d109c65fc0d8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/9c35a757290cbc6f3e8f9905c8240a86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/df3d705a6eac65244bc96b8402484399/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/3bcf8258966b35cda55e5049debd9f93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/98e27fa5d98808e58ba9b59f035c09b9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/eli/.gradle/caches/transforms-2/files-2.1/3b08c9029f66fa9d450f0c149ff42c36/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/eli/.gradle/caches/transforms-2/files-2.1/13dad0fbae7c077a2ba62ce1720878ab/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/eli/.gradle/caches/transforms-2/files-2.1/1ddc23b828051572c478149c22ca4ec4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/eli/.gradle/caches/transforms-2/files-2.1/ffe4a126a9813f6025bf2f99615aa7fa/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eli/.gradle/caches/transforms-2/files-2.1/b8d4b4c8ab691d9c97501dfa9f3c1855/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eli/.gradle/caches/transforms-2/files-2.1/b8d4b4c8ab691d9c97501dfa9f3c1855/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.android.materialme.DetailActivity
+ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:11:9-61
+	android:name
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:11:19-49
+activity#com.example.android.materialme.MainActivity
+ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eli/.gradle/caches/transforms-2/files-2.1/b8d4b4c8ab691d9c97501dfa9f3c1855/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/eli/.gradle/caches/transforms-2/files-2.1/b8d4b4c8ab691d9c97501dfa9f3c1855/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/48d3ce19e092823b1fd852c763b7d3bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/48d3ce19e092823b1fd852c763b7d3bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/ec1092492d1fa2f406ab71e0a2fdb30b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/ec1092492d1fa2f406ab71e0a2fdb30b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/3888258d01a248914c34a02d72791743/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/3888258d01a248914c34a02d72791743/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/faaed9397b2623cd7017f714d78cde41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/faaed9397b2623cd7017f714d78cde41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/20d53cb9bf2b20db1c285e1ebbc193b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/20d53cb9bf2b20db1c285e1ebbc193b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/d1ea9f5a77baf4b260a96c2118a46303/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/d1ea9f5a77baf4b260a96c2118a46303/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/2f9ce6405acf179ab1826e531345b2e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/2f9ce6405acf179ab1826e531345b2e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/e4386acc7be06d7b332c6044a899b5ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/e4386acc7be06d7b332c6044a899b5ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/e789aaa45d7c1019789d109c65fc0d8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/e789aaa45d7c1019789d109c65fc0d8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/9c35a757290cbc6f3e8f9905c8240a86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/9c35a757290cbc6f3e8f9905c8240a86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/df3d705a6eac65244bc96b8402484399/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/df3d705a6eac65244bc96b8402484399/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/3bcf8258966b35cda55e5049debd9f93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/3bcf8258966b35cda55e5049debd9f93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/98e27fa5d98808e58ba9b59f035c09b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/eli/.gradle/caches/transforms-2/files-2.1/98e27fa5d98808e58ba9b59f035c09b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/eli/.gradle/caches/transforms-2/files-2.1/3b08c9029f66fa9d450f0c149ff42c36/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/eli/.gradle/caches/transforms-2/files-2.1/3b08c9029f66fa9d450f0c149ff42c36/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/eli/.gradle/caches/transforms-2/files-2.1/13dad0fbae7c077a2ba62ce1720878ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/eli/.gradle/caches/transforms-2/files-2.1/13dad0fbae7c077a2ba62ce1720878ab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/eli/.gradle/caches/transforms-2/files-2.1/1ddc23b828051572c478149c22ca4ec4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/eli/.gradle/caches/transforms-2/files-2.1/1ddc23b828051572c478149c22ca4ec4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/eli/.gradle/caches/transforms-2/files-2.1/ffe4a126a9813f6025bf2f99615aa7fa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/eli/.gradle/caches/transforms-2/files-2.1/ffe4a126a9813f6025bf2f99615aa7fa/AndroidManifest.xml:20:5-44
+INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/AndroidManifest.xml

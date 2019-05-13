@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/res/values-w600dp/styles.xml",
+                    "from": {
+                        "startLines": "18,25,27",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "637,957,1045",
+                        "endLines": "23,26,32",
+                        "endColumns": "12,52,12",
+                        "endOffsets": "951,1040,1213"
+                    },
+                    "to": {
+                        "startLines": "2,8,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,374,454",
+                        "endLines": "7,8,12",
+                        "endColumns": "12,79,12",
+                        "endOffsets": "369,449,605"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/eli/.gradle/caches/transforms-2/files-2.1/ec1092492d1fa2f406ab71e0a2fdb30b/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/eli/Documents/mobileApp/Lab5/5.2/MaterialMe-Starter/app/src/main/res/values-land/integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endColumns": "49",
+                        "endOffsets": "373"
+                    }
+                },
+                {
+                    "source": "/home/eli/.gradle/caches/transforms-2/files-2.1/48d3ce19e092823b1fd852c763b7d3bf/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "378",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "555"
+                    }
+                }
+            ]
+        }
+    ]
+}
