@@ -1,42 +1,19 @@
-MaterialMe-Starter - Starter Code
-=================================
+# CE-450/650 Lab 5 (2019 Spring)
+---
+This repository is for Lab 5 lesson 2 and 3
+##5.2 Cards and colors and 5.3
+ 
+Follow along with the code labs to make a score keeping app
 
-This is the starter code for the practical on Material Design in the Android
-Developer Fundamentals course. It includes a fake data set that the student
-will use to improve the user experience using Material Design Principles.
+## Issues and Lessons
+ 
+There wasn't any issues other than the outdated info for the course
+ 
+- How to efficiently use images
+-Use of widges like floating action button and card view
+-Make alternate resources for differnt size tablets
+-make alternate resources for locales
+ 
+---
+Written by Elijsha Baetiong  
 
-Pre-requisites
---------------
-
-For this app you should be familiar with:
-* Creating and running apps in Android Studio.
-* Creating and editing elements using the Layout Editor, XML, and 
-  programmatically.
-* Using a RecyclerView to display a list.
-
-
-
-Getting Started
----------------
-
-1. Download and open the app in Android Studio.
-
-License
--------
-
-Copyright 2018 Google, Inc.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-  http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
